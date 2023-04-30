@@ -133,6 +133,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Car_C.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Suv_C.cpp" />
     <ClCompile Include="Vehicle_C.cpp" />
   </ItemGroup>
